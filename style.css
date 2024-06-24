@@ -26,7 +26,7 @@ body {
 }
 
 .icon {
-    font-size: 40px;
+    font-size: 30px;
 }
 
 h1, h2 {
@@ -39,5 +39,20 @@ h2{
 
 img {
     object-fit: contain;
+}
+
+.post-icons {
+    display: flex;
+    padding: 10px 5px;
+    
+}
+
+.post-icons .icon{
+    margin: 0 5px;
+    
+}
+
+.post-icons .icon:last-child {
+    margin-left: auto; 
 }
 
