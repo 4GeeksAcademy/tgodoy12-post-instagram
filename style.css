@@ -56,3 +56,13 @@ img {
     margin-left: auto; 
 }
 
+.post-likes {
+    margin: 0;
+    padding: 0 10px;
+}
+
+.post-text {
+    margin-top: 0;
+    padding: 0 10px 10px 10px;
+}
+
